@@ -1,0 +1,14 @@
+body {
+  background:#111;
+  color:white;
+  font-family:Zen Dots;
+  text-align:center;
+}
+a {
+  color:#ff5555;
+  font-size:20px;
+}
+input, button {
+  margin:5px;
+  padding:10px;
+}
